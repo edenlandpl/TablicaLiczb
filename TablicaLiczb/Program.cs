@@ -1,0 +1,12 @@
+﻿git addusing System;
+
+namespace TablicaLiczb
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
