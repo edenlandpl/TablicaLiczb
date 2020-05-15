@@ -1,0 +1,11 @@
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\obj\Debug\netcoreapp3.1\TablicaLiczb.csprojAssemblyReference.cache
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\obj\Debug\netcoreapp3.1\TablicaLiczb.AssemblyInfoInputs.cache
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\obj\Debug\netcoreapp3.1\TablicaLiczb.AssemblyInfo.cs
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\bin\Debug\netcoreapp3.1\TablicaLiczb.exe
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\bin\Debug\netcoreapp3.1\TablicaLiczb.deps.json
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\bin\Debug\netcoreapp3.1\TablicaLiczb.runtimeconfig.json
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\bin\Debug\netcoreapp3.1\TablicaLiczb.runtimeconfig.dev.json
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\bin\Debug\netcoreapp3.1\TablicaLiczb.dll
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\bin\Debug\netcoreapp3.1\TablicaLiczb.pdb
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\obj\Debug\netcoreapp3.1\TablicaLiczb.dll
+C:\Apki\C#\TablicaLiczb\TablicaLiczb\obj\Debug\netcoreapp3.1\TablicaLiczb.pdb
